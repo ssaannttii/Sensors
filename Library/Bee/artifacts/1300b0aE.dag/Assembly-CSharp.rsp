@@ -356,9 +356,11 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"E:/Unity/2022.3.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/Unity/2022.3.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/ObjectMover.cs"
-"Assets/Scripts/SensorDataSender.cs"
-"Assets/Scripts/WebSocketServerScript.cs"
+"Assets/Scenes/BoardController.cs"
+"Assets/Scripts/AccelerometerController.cs"
+"Assets/Scripts/old/ObjectMover.cs"
+"Assets/Scripts/old/SensorDataSender.cs"
+"Assets/Scripts/old/WebSocketServerScript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
